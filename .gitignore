@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+.history
+.lh
+.vscode
+dist
+storybook-static
+coverage
+mutation
+storybook-static
+build-storybook.log
+# stryker temp files
+.stryker-tmp
